@@ -1,0 +1,38 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+
+#aqua-affinity{
+    font-size: 600%;
+    color: white;
+    margin-top: 5%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+#aqua-affinity_what_it_is{
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-style: solid;
+    font-size: 2em;
+    padding: 20px;
+    color:darkblue;
+    display:block;
+    bottom: 320px;
+    top: 1px;
+}
+
+#aqua-affinity_image{
+    position: relative;
+    width: 500px;
+}
+
+#aqua-affinity_index{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}

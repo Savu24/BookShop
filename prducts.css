@@ -1,0 +1,226 @@
+
+.Products1{
+    cursor: pointer;
+    z-index: +0.5;
+    width: 320px;
+    height: 320px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: hsl(256, 70%, 86%);
+    background-color: hsl(256, 70%, 86%);
+}
+
+
+#Products1{
+    position: relative;
+    top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+
+.text_in_Products{
+    font-family: "Popppins", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 220px;
+}
+
+.dodaj_do_koszyka{
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    margin-left: 70px;
+    width: 50%;
+    padding: 10px;
+    border-style: solid;
+    border-color: hsl(28, 59%, 39%);
+    border-radius: 20px;
+    background-color: hsl(28, 59%, 39%);
+    color: white;
+}
+
+.dodaj_do_koszyka:hover{
+    transition: 0.3s;
+    border-style: solid;
+    border-color: hsl(28, 59%, 49%);
+    background-color: hsl(28, 59%, 49%);
+}
+
+
+
+#enchanted_book_image1{
+    position:absolute ;
+    left: 13.5%;
+    bottom: 35%;
+    cursor: pointer;
+}
+
+#enchanted_book_image2{
+    position: absolute;
+    bottom: 35%;
+    cursor: pointer;
+    left: 42.5%;
+}
+
+#enchanted_book_image3{
+    position: absolute;
+    right: 13.5%;
+    bottom: 35%;
+    cursor: pointer;
+}
+
+
+
+#Products1 a{
+    text-decoration: none;
+    color: black;
+}
+
+#Products2{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 150px;
+}
+
+
+#enchanted_book_image4{
+    position:absolute ;
+    left: 13.5%;
+    cursor: pointer;
+    top: 5%;
+}
+
+#enchanted_book_image5{
+    position: absolute;
+    cursor: pointer;
+    left: 42.5%;
+    top: 5%;
+}
+
+#enchanted_book_image6{
+    position: absolute;
+    right: 13.5%;
+    cursor: pointer;
+    top: 5%;
+}
+
+#Products2 a{
+    text-decoration: none;
+    color: black;
+}
+
+#Products3{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 73px;
+}
+
+
+#enchanted_book_image7{
+    position:absolute ;
+    left: 13.5%;
+    cursor: pointer;
+    top: 5%;
+}
+
+#enchanted_book_image8{
+    position: absolute;
+    cursor: pointer;
+    left: 42.5%;
+    top: 5%;
+}
+
+#enchanted_book_image9{
+    position: absolute;
+    right: 13.5%;
+    cursor: pointer;
+    top: 5%;
+}
+
+#Products3 a{
+    text-decoration: none;
+    color: black;
+}
+
+#Products4{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+
+#enchanted_book_image10{
+    position:absolute ;
+    left: 13.5%;
+    cursor: pointer;
+    top: 5%;
+}
+
+#enchanted_book_image11{
+    position: absolute;
+    cursor: pointer;
+    left: 42.5%;
+    top: 5%;
+}
+
+#enchanted_book_image12{
+    position: absolute;
+    right: 13.5%;
+    cursor: pointer;
+    top: 5%;
+}
+
+#Products4 a{
+    text-decoration: none;
+    color: black;
+}
+
+#Products5{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+
+#enchanted_book_image13{
+    position:absolute ;
+    left: 13.5%;
+    cursor: pointer;
+    top: 5%;
+}
+
+#enchanted_book_image14{
+    position: absolute;
+    cursor: pointer;
+    left: 42.5%;
+    top: 5%;
+}
+
+#enchanted_book_image15{
+    position: absolute;
+    right: 13.5%;
+    cursor: pointer;
+    top: 5%;
+}
+
+#Products5 a{
+    text-decoration: none;
+    color: black;
+}
